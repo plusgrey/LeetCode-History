@@ -10,6 +10,4 @@
 
 [LeetCode 127 Word Ladder](https://github.com/plusgrey/LeetCode-History/blob/main/LeetCode%20127%20Word%20Ladder.md)
 
-[LeetCode 142 Cycle List](https://github.com/plusgrey/LeetCode-History/blob/main/LeetCode%20142%20Cycle%20List.md)
-
 [LeetCode 10 Regular Expression Matching](https://github.com/plusgrey/LeetCode-History/blob/main/LeetCode%2010%20Regular%20Expression%20Matching.md)
