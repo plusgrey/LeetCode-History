@@ -6,7 +6,7 @@
 
 所谓匹配，是要涵盖整个字符串s的，而不是部分字符串。
 
- 
+
 示例 1：
 
 输入：s = "aa" p = "a"
@@ -49,25 +49,4 @@ class Solution:
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-eaf87da88383> in <module>
-    ----> 1 class Solution:
-          2     @lru_cache(None)
-          3     def isMatch(self, s: str, p: str) -> bool:
-          4         if not p: return not s  # 结束条件
-          5 
-    
-
-    <ipython-input-1-eaf87da88383> in Solution()
-          1 class Solution:
-    ----> 2     @lru_cache(None)
-          3     def isMatch(self, s: str, p: str) -> bool:
-          4         if not p: return not s  # 结束条件
-          5 
-    
-
-    NameError: name 'lru_cache' is not defined
 
