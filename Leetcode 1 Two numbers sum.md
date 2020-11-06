@@ -19,7 +19,7 @@ findindex(my_list,target)
 
     [1, 3]
     Wall time: 984 µs
-    
+
 
 Hash做法：
 
@@ -40,16 +40,8 @@ hashfindindex(my_list,target)
 ```
 
     Wall time: 0 ns
-    
-
-
-
 
     [1, 3]
 
 
 
-
-```python
-
-```
