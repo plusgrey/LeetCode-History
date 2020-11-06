@@ -14,7 +14,7 @@
 
 解释：链表中有一个环，其尾部连接到第二个节点。
 
-![image.png](attachment:image.png)
+![image.png](\asset\14201.png)
 
 ### 双指针法:
 如果有环，如何找到这个环的入口
@@ -25,7 +25,7 @@
 从相遇节点 再到环形入口节点节点数为 z。 如图所示：
 
 
-![image.png](attachment:image.png)
+![14202](\asset\14202.png)
 
 那么相遇时：
 slow指针走过的节点数为: x + y
